@@ -1,0 +1,6 @@
+scenario 1:
+
+inurl:/control/userimage.html
+http://www.videovalvonta.fi/control/userimage.html
+
+Scenario 2:
