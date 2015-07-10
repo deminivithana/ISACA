@@ -3,4 +3,8 @@ scenario 1:
 inurl:/control/userimage.html
 http://www.videovalvonta.fi/control/userimage.html
 
-Scenario 2:
+Scenario 2: 
+filetype:xls "username | password" intext:lk
+http://bethelchapelsrilanka.org/lessons/10102110hosting.xls
+
+
